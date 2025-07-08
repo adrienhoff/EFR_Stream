@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="pointStyle"><IconStyle><Icon><href>https://example.com/my-marker.png</href></Icon></IconStyle></Style><Placemark><name>Unnamed</name><visibility>1</visibility><description>Notes: None
+Class: Missed Tree
+For Three Sisters?: None
+OID: 10</description><styleUrl>#pointStyle</styleUrl><Point><coordinates>-11724132.3853,4810788.919399999,0</coordinates></Point></Placemark><Placemark><name>Unnamed</name><visibility>1</visibility><description>Notes: Old dump site
+Class: Hazard
+For Three Sisters?: No
+OID: 36</description><styleUrl>#pointStyle</styleUrl><Point><coordinates>-11724097.6204,4810248.743000001,0</coordinates></Point></Placemark><Placemark><name>Unnamed</name><visibility>1</visibility><description>Notes: Pic 
+Class: Landing/Log Deck
+For Three Sisters?: No
+OID: 15</description><styleUrl>#pointStyle</styleUrl><Point><coordinates>-11724098.085099999,4810026.531800002,0</coordinates></Point></Placemark><Placemark><name>Unnamed</name><visibility>1</visibility><description>Notes: None
+Class: Photo
+For Three Sisters?: No
+OID: 85</description><styleUrl>#pointStyle</styleUrl><Point><coordinates>-11724222.3914,4810742.422700003,0</coordinates></Point></Placemark></Document></kml>
