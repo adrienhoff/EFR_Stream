@@ -1,2 +1,648 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="default_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Hazard.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="default"><Pair><key>normal</key><styleUrl>#default_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#default_style</styleUrl></Pair></StyleMap><Style id="Hazard_Tree_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/HazardTree.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Hazard_Tree"><Pair><key>normal</key><styleUrl>#Hazard_Tree_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Hazard_Tree_style</styleUrl></Pair></StyleMap><Style id="Hazard_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Hazard.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Hazard"><Pair><key>normal</key><styleUrl>#Hazard_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Hazard_style</styleUrl></Pair></StyleMap><Style id="Landing/Log_Deck_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Landing%20or%20Log%20Deck.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Landing/Log_Deck"><Pair><key>normal</key><styleUrl>#Landing/Log_Deck_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Landing/Log_Deck_style</styleUrl></Pair></StyleMap><Style id="Missed_Tree_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Hazard%20Tree.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Missed_Tree"><Pair><key>normal</key><styleUrl>#Missed_Tree_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Missed_Tree_style</styleUrl></Pair></StyleMap><Style id="Photo_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/photo.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Photo"><Pair><key>normal</key><styleUrl>#Photo_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Photo_style</styleUrl></Pair></StyleMap><Folder><name>Mitigation Points</name><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Missed Tree&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 3&lt;/p&gt;]]></description><Point><coordinates>-105.31770254116552,39.617427674713625,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Missed Tree&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 4&lt;/p&gt;]]></description><Point><coordinates>-105.31774015182984,39.61740446191796,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Missed Tree&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 5&lt;/p&gt;]]></description><Point><coordinates>-105.31767043986882,39.617360339246886,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Missed Tree&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 6&lt;/p&gt;]]></description><Point><coordinates>-105.31765384439228,39.61730739297331,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Missed Tree&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 7&lt;/p&gt;]]></description><Point><coordinates>-105.31774601243875,39.617222507791,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Missed Tree&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 8&lt;/p&gt;]]></description><Point><coordinates>-105.31790445639025,39.61612767834921,0</coordinates></Point></Placemark><Placemark><name /><visibility>1</visibility><styleUrl>#default</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; 40 piles&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 9&lt;/p&gt;]]></description><Point><coordinates>-105.4174745776782,39.68716881044194,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Missed Tree&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 10&lt;/p&gt;]]></description><Point><coordinates>-105.31967314755651,39.619408503332494,0</coordinates></Point></Placemark><Placemark><name>Hazard</name><visibility>1</visibility><styleUrl>#Hazard</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Open mine &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Hazard&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 11&lt;/p&gt;]]></description><Point><coordinates>-105.32192262604602,39.61810200839386,0</coordinates></Point></Placemark><Placemark><name>Hazard</name><visibility>1</visibility><styleUrl>#Hazard</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Open Mine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Hazard&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 12&lt;/p&gt;]]></description><Point><coordinates>-105.32097634342067,39.61796289962798,0</coordinates></Point></Placemark><Placemark><name>Landing/Log Deck</name><visibility>1</visibility><styleUrl>#Landing/Log_Deck</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Pic &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Landing/Log Deck&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 15&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/15/attachments/2' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31936502361744,39.614132810200616,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 16&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/16/attachments/3' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3193989637655,39.61415424282798,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 17&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/17/attachments/4' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31943789225835,39.61412663666709,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 18&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/18/attachments/5' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/18/attachments/6' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31853317827445,39.613399635404754,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 19&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/19/attachments/7' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/19/attachments/8' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31785457114589,39.613102029387306,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 20&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/20/attachments/9' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31781437692683,39.61319972221377,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 21&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/21/attachments/10' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31782003810973,39.61300828586002,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 22&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/22/attachments/11' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/22/attachments/12' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3170348674323,39.613042630104964,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 23&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/23/attachments/13' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/23/attachments/14' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31696245154228,39.61312630589593,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 24&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/24/attachments/15' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31714593064244,39.61317134267226,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 25&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/25/attachments/16' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31809894075094,39.61357094373173,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 26&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/26/attachments/17' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31837077095592,39.614019222908496,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 27&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/27/attachments/18' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3184875905704,39.61405164628711,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 28&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/28/attachments/19' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3169244375344,39.613649996141284,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 29&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/29/attachments/20' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3167558605865,39.61338212427822,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 30&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/30/attachments/21' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31956496165023,39.617400760464115,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 31&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/31/attachments/22' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31953944320796,39.61721337557634,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 32&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/32/attachments/23' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31952887991852,39.61677926979044,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 33&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/33/attachments/24' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31941334219994,39.61623344602439,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 34&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/34/attachments/25' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.319375330887,39.61595553348816,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 35&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/35/attachments/26' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31937476764332,39.61566155419707,0</coordinates></Point></Placemark><Placemark><name>Hazard</name><visibility>1</visibility><styleUrl>#Hazard</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Old dump site&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Hazard&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 36&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/36/attachments/27' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31936084914632,39.61567054475502,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 37&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/37/attachments/28' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31924365044277,39.61554235030492,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 38&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/38/attachments/29' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31919739349384,39.615225938397614,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 39&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/39/attachments/30' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31989780992087,39.615261279422626,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 40&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/40/attachments/31' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32012601074914,39.615165326456264,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 41&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/41/attachments/32' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3203100198553,39.61496402672371,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 42&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/42/attachments/33' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32030707158455,39.61466120339354,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 43&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/43/attachments/34' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/43/attachments/35' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32006657012509,39.61454361640986,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; All four directions&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 44&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/36' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/37' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/38' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/39' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31959807804319,39.61467110754409,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 45&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/45/attachments/40' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/45/attachments/41' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31867871613026,39.614311977377575,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 46&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/46/attachments/42' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/46/attachments/43' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31852752337974,39.61422207413303,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 47&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/47/attachments/44' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/47/attachments/45' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31840519529594,39.614149249886566,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 48&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/48/attachments/46' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3179917681443,39.61384800219406,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 49&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/49/attachments/47' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3176544795012,39.61360085733522,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 50&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/50/attachments/48' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31728951645914,39.613397706025424,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Three sides&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 51&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/49' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/50' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/51' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31694865970773,39.613781853529865,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 52&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/52/attachments/52' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31712068708464,39.61396110119797,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 53&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/53/attachments/53' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31721633071294,39.61401085634152,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 54&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/54/attachments/54' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31768068066307,39.61452741694803,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 55&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/55/attachments/55' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31788608045281,39.61492472722332,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 56&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/56/attachments/56' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3182119488137,39.61519469406537,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 57&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/57/attachments/57' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/57/attachments/58' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31840515397343,39.615472711381685,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 58&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/58/attachments/59' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/58/attachments/60' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31870906750876,39.61603163247137,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 59&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/59/attachments/61' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31868930187757,39.616289985988736,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 60&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/60/attachments/62' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/60/attachments/63' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31908733190525,39.6165138790883,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 61&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/61/attachments/64' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31926081994278,39.616819913477634,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 62&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/62/attachments/65' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3193729844875,39.6172407604529,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 63&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/63/attachments/66' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32011896705899,39.61840648711057,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 64&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/64/attachments/67' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32010110944945,39.61853074720185,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 65&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/65/attachments/68' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32015410016974,39.61862272908705,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Aspen restoration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 66&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/66/attachments/69' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32072194861703,39.618650865585494,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 67&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/67/attachments/70' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32235307537397,39.619158585526584,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 68&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/68/attachments/71' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/68/attachments/72' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3226756783588,39.61884394361581,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 69&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/69/attachments/73' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/69/attachments/74' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32249509003724,39.61850916023433,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 70&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/70/attachments/75' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32223601950255,39.618350126022065,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 71&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/71/attachments/76' style='max-width:200px;margin:5px 0;'/&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/71/attachments/77' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32189617964404,39.61827103330939,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 72&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/72/attachments/78' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32142174251156,39.61820417128671,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 73&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/73/attachments/79' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3204970859284,39.61823451745241,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 74&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/74/attachments/80' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32010491381469,39.618219960234946,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 75&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/75/attachments/81' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32051379998255,39.61933001176778,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 76&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/76/attachments/82' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32073134679153,39.61978980325393,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 77&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/77/attachments/83' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32103336667828,39.619894863680614,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 78&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/78/attachments/84' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32126681726103,39.61989783013431,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 79&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/79/attachments/85' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32151807245273,39.61979858222604,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 80&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/80/attachments/86' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3218697062926,39.61965980417055,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 81&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/81/attachments/87' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32228929139553,39.6194677947408,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 82&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/82/attachments/88' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32126178040726,39.61948075324728,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 83&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/83/attachments/89' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32061712869812,39.61952928448267,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 84&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/84/attachments/90' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31967921747291,39.61922644168252,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; None&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Class:&lt;/strong&gt; Photo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OID:&lt;/strong&gt; 85&lt;/p&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/85/attachments/91' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32048168610946,39.61908675945503,0</coordinates></Point></Placemark></Folder></Document></kml>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="default_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Hazard.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="default"><Pair><key>normal</key><styleUrl>#default_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#default_style</styleUrl></Pair></StyleMap><Style id="Hazard_Tree_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/HazardTree.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Hazard_Tree"><Pair><key>normal</key><styleUrl>#Hazard_Tree_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Hazard_Tree_style</styleUrl></Pair></StyleMap><Style id="Hazard_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Hazard.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Hazard"><Pair><key>normal</key><styleUrl>#Hazard_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Hazard_style</styleUrl></Pair></StyleMap><Style id="Landing/Log_Deck_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Landing%20or%20Log%20Deck.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Landing/Log_Deck"><Pair><key>normal</key><styleUrl>#Landing/Log_Deck_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Landing/Log_Deck_style</styleUrl></Pair></StyleMap><Style id="Missed_Tree_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/Hazard%20Tree.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Missed_Tree"><Pair><key>normal</key><styleUrl>#Missed_Tree_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Missed_Tree_style</styleUrl></Pair></StyleMap><Style id="Photo_style"><IconStyle><Icon><href>https://raw.githubusercontent.com/adrienhoff/Icons/main/photo.png</href></Icon></IconStyle><LabelStyle><scale>1.0</scale></LabelStyle></Style><StyleMap id="Photo"><Pair><key>normal</key><styleUrl>#Photo_style</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Photo_style</styleUrl></Pair></StyleMap><Folder><name>Mitigation Points</name><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 3
+GlobalID       : a0031570-4c68-4e00-9f41-024fc066dbd9
+CreationDate   : 1738872695453
+Creator        : jestle_nifc
+EditDate       : 1738954715084
+Editor         : EFPD_gis
+Class          : Missed Tree
+&lt;/pre&gt;]]></description><Point><coordinates>-105.31770254116552,39.617427674713625,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 4
+GlobalID       : ebe38264-9c62-4c51-886c-d5dd2ed13ae8
+CreationDate   : 1738872716983
+Creator        : jestle_nifc
+EditDate       : 1749825509947
+Editor         : EFPD_gis
+Class          : Missed Tree
+&lt;/pre&gt;]]></description><Point><coordinates>-105.31774015182984,39.61740446191796,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 5
+GlobalID       : 29a6a309-5a5d-422e-9edc-4252cb0d31d9
+CreationDate   : 1738872744282
+Creator        : jestle_nifc
+EditDate       : 1738954721535
+Editor         : EFPD_gis
+Class          : Missed Tree
+&lt;/pre&gt;]]></description><Point><coordinates>-105.31767043986882,39.617360339246886,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 6
+GlobalID       : cff5a2a9-a051-4039-bacb-74a0325075fc
+CreationDate   : 1738872773110
+Creator        : jestle_nifc
+EditDate       : 1738954725135
+Editor         : EFPD_gis
+Class          : Missed Tree
+&lt;/pre&gt;]]></description><Point><coordinates>-105.31765384439228,39.61730739297331,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 7
+GlobalID       : ee8489e0-e5ab-4b87-bb83-09f0853943f3
+CreationDate   : 1738872811699
+Creator        : jestle_nifc
+EditDate       : 1738954701491
+Editor         : EFPD_gis
+Class          : Missed Tree
+&lt;/pre&gt;]]></description><Point><coordinates>-105.31774601243875,39.617222507791,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 8
+GlobalID       : b23935a0-d450-497f-a580-06d1938a3851
+CreationDate   : 1738873643507
+Creator        : jestle_nifc
+EditDate       : 1738954677419
+Editor         : EFPD_gis
+Class          : Missed Tree
+&lt;/pre&gt;]]></description><Point><coordinates>-105.31790445639025,39.61612767834921,0</coordinates></Point></Placemark><Placemark><name /><visibility>1</visibility><styleUrl>#default</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 9
+Notes          : 40 piles
+GlobalID       : 6fb9c30f-668b-4c46-b6b0-f4af489891d9
+CreationDate   : 1739469701553
+Creator        : jestle_nifc
+EditDate       : 1739469701553
+Editor         : jestle_nifc
+&lt;/pre&gt;]]></description><Point><coordinates>-105.4174745776782,39.68716881044194,0</coordinates></Point></Placemark><Placemark><name>Missed Tree</name><visibility>1</visibility><styleUrl>#Missed_Tree</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 10
+GlobalID       : e0108fb2-a0f5-43ad-b7e9-547f8d0c43be
+CreationDate   : 1741880665601
+Creator        : mfeller_nifc
+EditDate       : 1741880665601
+Editor         : mfeller_nifc
+Class          : Missed Tree
+&lt;/pre&gt;]]></description><Point><coordinates>-105.31967314755651,39.619408503332494,0</coordinates></Point></Placemark><Placemark><name>Hazard</name><visibility>1</visibility><styleUrl>#Hazard</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 11
+Notes          : Open mine 
+GlobalID       : c6fe5370-af1d-4639-bb02-09ab49a9ff9d
+CreationDate   : 1745713739241
+Creator        : jason.puffett_nifc
+EditDate       : 1745713739241
+Editor         : jason.puffett_nifc
+Class          : Hazard
+&lt;/pre&gt;]]></description><Point><coordinates>-105.32192262604602,39.61810200839386,0</coordinates></Point></Placemark><Placemark><name>Hazard</name><visibility>1</visibility><styleUrl>#Hazard</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 12
+Notes          : Open Mine
+GlobalID       : d2820311-e4cb-4ee0-a352-a99e2d4eadf7
+CreationDate   : 1750093617348
+Creator        : jason.puffett_nifc
+EditDate       : 1750093617348
+Editor         : jason.puffett_nifc
+Class          : Hazard
+ThreeSisters   : No
+&lt;/pre&gt;]]></description><Point><coordinates>-105.32097634342067,39.61796289962798,0</coordinates></Point></Placemark><Placemark><name>Landing/Log Deck</name><visibility>1</visibility><styleUrl>#Landing/Log_Deck</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 15
+Notes          : Pic 
+GlobalID       : 9524d63b-2a46-4c59-bd63-45a46a27ee78
+CreationDate   : 1751294456925
+Creator        : jessica.moore_nifc
+EditDate       : 1751294456925
+Editor         : jessica.moore_nifc
+Class          : Landing/Log Deck
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/15/attachments/2' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31936502361744,39.614132810200616,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 16
+GlobalID       : 0a5b5196-e4cd-4cdc-b8a7-81cca697e465
+CreationDate   : 1751294825039
+Creator        : jessica.moore_nifc
+EditDate       : 1751294825039
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/16/attachments/3' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3193989637655,39.61415424282798,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 17
+GlobalID       : fc8d6e34-63aa-4e63-a098-d288383babd1
+CreationDate   : 1751294860364
+Creator        : jessica.moore_nifc
+EditDate       : 1751294860364
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/17/attachments/4' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31943789225835,39.61412663666709,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 18
+GlobalID       : ebc9c32f-ca5f-46da-98a7-f3ca0306ed1a
+CreationDate   : 1751295877282
+Creator        : jessica.moore_nifc
+EditDate       : 1751295877282
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/18/attachments/5' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/18/attachments/6' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31853317827445,39.613399635404754,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 19
+GlobalID       : 646e2aa6-edd1-45c6-a75d-8f3e57088616
+CreationDate   : 1751296913365
+Creator        : jessica.moore_nifc
+EditDate       : 1751296913365
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/19/attachments/7' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/19/attachments/8' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31785457114589,39.613102029387306,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 20
+GlobalID       : f32abd83-cfd4-40c9-a9b9-bb3e8705b46c
+CreationDate   : 1751297769224
+Creator        : jessica.moore_nifc
+EditDate       : 1751297769224
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/20/attachments/9' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31781437692683,39.61319972221377,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 21
+GlobalID       : da1e926f-fd71-4f31-89ed-a30c6e9e95f0
+CreationDate   : 1751298265728
+Creator        : jessica.moore_nifc
+EditDate       : 1751298265728
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/21/attachments/10' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31782003810973,39.61300828586002,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 22
+GlobalID       : 6de0e4a4-9011-40b4-a17e-8de61601a6da
+CreationDate   : 1751298579611
+Creator        : jessica.moore_nifc
+EditDate       : 1751298579611
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/22/attachments/11' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/22/attachments/12' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3170348674323,39.613042630104964,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 23
+GlobalID       : fac428a4-9433-4cf8-bd80-d5b8d62e7c09
+CreationDate   : 1751298616048
+Creator        : jessica.moore_nifc
+EditDate       : 1751298616048
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/23/attachments/13' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/23/attachments/14' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31696245154228,39.61312630589593,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 24
+GlobalID       : 1c5c50b1-f558-48ca-986c-370d1c2f9b4a
+CreationDate   : 1751298676354
+Creator        : jessica.moore_nifc
+EditDate       : 1751298676354
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/24/attachments/15' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31714593064244,39.61317134267226,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 25
+GlobalID       : e0adb13d-5335-4302-a1bb-c78ed4602819
+CreationDate   : 1751300578120
+Creator        : jessica.moore_nifc
+EditDate       : 1751300578120
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/25/attachments/16' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31809894075094,39.61357094373173,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 26
+GlobalID       : 93ca8319-b543-437c-a394-85bcbea48567
+CreationDate   : 1751300677394
+Creator        : jessica.moore_nifc
+EditDate       : 1751300677394
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/26/attachments/17' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31837077095592,39.614019222908496,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 27
+GlobalID       : 392a697e-fd99-437b-8c41-6aaed825a268
+CreationDate   : 1751300745856
+Creator        : jessica.moore_nifc
+EditDate       : 1751300745856
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/27/attachments/18' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3184875905704,39.61405164628711,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 28
+GlobalID       : 661825eb-c333-4b7d-b2d3-78290f679178
+CreationDate   : 1751301880042
+Creator        : jessica.moore_nifc
+EditDate       : 1751301880042
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/28/attachments/19' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3169244375344,39.613649996141284,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 29
+GlobalID       : 01bcd9f3-0cbc-4890-b704-7db725582fcc
+CreationDate   : 1751301979335
+Creator        : jessica.moore_nifc
+EditDate       : 1751301979335
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/29/attachments/20' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3167558605865,39.61338212427822,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 30
+GlobalID       : 6e0da47f-a988-4b60-84b9-79f330bf9066
+CreationDate   : 1751308889413
+Creator        : jessica.moore_nifc
+EditDate       : 1751308889413
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/30/attachments/21' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31956496165023,39.617400760464115,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 31
+GlobalID       : 6419b96c-a937-41e7-9b76-462e43cf7744
+CreationDate   : 1751308969651
+Creator        : jessica.moore_nifc
+EditDate       : 1751308969651
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/31/attachments/22' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31953944320796,39.61721337557634,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 32
+GlobalID       : 69080de0-1e9f-4012-b58b-45003d085a39
+CreationDate   : 1751309076560
+Creator        : jessica.moore_nifc
+EditDate       : 1751309076560
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/32/attachments/23' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31952887991852,39.61677926979044,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 33
+GlobalID       : 41655758-43b3-42ff-9cdc-45566090779f
+CreationDate   : 1751309292235
+Creator        : jessica.moore_nifc
+EditDate       : 1751309292235
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/33/attachments/24' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31941334219994,39.61623344602439,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 34
+GlobalID       : 8d423695-8aaa-43f1-88ac-3bd7c9ddebbb
+CreationDate   : 1751309424419
+Creator        : jessica.moore_nifc
+EditDate       : 1751309424419
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/34/attachments/25' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.319375330887,39.61595553348816,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 35
+GlobalID       : 91798143-4d83-4609-b4cb-a3783be81cda
+CreationDate   : 1751309486617
+Creator        : jessica.moore_nifc
+EditDate       : 1751309486617
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/35/attachments/26' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31937476764332,39.61566155419707,0</coordinates></Point></Placemark><Placemark><name>Hazard</name><visibility>1</visibility><styleUrl>#Hazard</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 36
+Notes          : Old dump site
+GlobalID       : 76eb9591-614c-4f0e-b14d-d22085b67099
+CreationDate   : 1751309582385
+Creator        : jessica.moore_nifc
+EditDate       : 1751309582385
+Editor         : jessica.moore_nifc
+Class          : Hazard
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/36/attachments/27' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31936084914632,39.61567054475502,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 37
+GlobalID       : 06f776d6-078c-4a68-8f5c-9cf1e04f97d2
+CreationDate   : 1751309656632
+Creator        : jessica.moore_nifc
+EditDate       : 1751309656632
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/37/attachments/28' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31924365044277,39.61554235030492,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 38
+GlobalID       : 4bbb5d9b-4392-49a2-9f1a-8ffaecaa8e17
+CreationDate   : 1751309877834
+Creator        : jessica.moore_nifc
+EditDate       : 1751309877834
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/38/attachments/29' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31919739349384,39.615225938397614,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 39
+GlobalID       : 9d0bbe5e-2168-433c-a92f-14de4b51988b
+CreationDate   : 1751310033018
+Creator        : jessica.moore_nifc
+EditDate       : 1751310033018
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/39/attachments/30' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31989780992087,39.615261279422626,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 40
+GlobalID       : 5104477a-36ae-497d-a58f-5fe557d798c6
+CreationDate   : 1751310135316
+Creator        : jessica.moore_nifc
+EditDate       : 1751310135316
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/40/attachments/31' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32012601074914,39.615165326456264,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 41
+GlobalID       : 6424b871-95be-45e5-8339-15643d591347
+CreationDate   : 1751310272460
+Creator        : jessica.moore_nifc
+EditDate       : 1751310272460
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/41/attachments/32' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3203100198553,39.61496402672371,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 42
+GlobalID       : 1f543dcc-ca16-4fa3-af60-a0e2f07aaf78
+CreationDate   : 1751310351685
+Creator        : jessica.moore_nifc
+EditDate       : 1751310351685
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/42/attachments/33' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32030707158455,39.61466120339354,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 43
+GlobalID       : 626761f4-60f2-4b3e-8a3e-b80a18c7e199
+CreationDate   : 1751310447172
+Creator        : jessica.moore_nifc
+EditDate       : 1751310447172
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/43/attachments/34' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/43/attachments/35' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32006657012509,39.61454361640986,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 44
+Notes          : All four directions
+GlobalID       : ed6494f2-efe2-4306-a8f2-72696a26e756
+CreationDate   : 1751310682537
+Creator        : jessica.moore_nifc
+EditDate       : 1751310682537
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/36' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/37' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/38' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/39' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31959807804319,39.61467110754409,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 45
+GlobalID       : 87055ca4-47e3-487b-82ef-2e89b2562b51
+CreationDate   : 1751310869372
+Creator        : jessica.moore_nifc
+EditDate       : 1751310869372
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/45/attachments/40' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/45/attachments/41' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31867871613026,39.614311977377575,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 46
+GlobalID       : 0f262cba-2d1e-47c1-a134-fb1145340912
+CreationDate   : 1751310939025
+Creator        : jessica.moore_nifc
+EditDate       : 1751310939025
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/46/attachments/42' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/46/attachments/43' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31852752337974,39.61422207413303,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 47
+GlobalID       : f11a65fc-51c0-4af9-a6ca-832404022055
+CreationDate   : 1751311008324
+Creator        : jessica.moore_nifc
+EditDate       : 1751311008324
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/47/attachments/44' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/47/attachments/45' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31840519529594,39.614149249886566,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 48
+GlobalID       : 80bad31f-25fa-4a66-89fc-420656f00401
+CreationDate   : 1751311128651
+Creator        : jessica.moore_nifc
+EditDate       : 1751311128651
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/48/attachments/46' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3179917681443,39.61384800219406,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 49
+GlobalID       : 83a6a464-20de-475e-af3c-8bb94d5653d9
+CreationDate   : 1751311230983
+Creator        : jessica.moore_nifc
+EditDate       : 1751311230983
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/49/attachments/47' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3176544795012,39.61360085733522,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 50
+GlobalID       : a11e59b7-e664-449b-bb73-ef3cb03f807a
+CreationDate   : 1751311305535
+Creator        : jessica.moore_nifc
+EditDate       : 1751311305535
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/50/attachments/48' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31728951645914,39.613397706025424,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 51
+Notes          : Three sides
+GlobalID       : df4735b7-a364-4d1f-bf3d-a636867d5cab
+CreationDate   : 1751311511664
+Creator        : jessica.moore_nifc
+EditDate       : 1751311511664
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/49' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/50' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/51' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31694865970773,39.613781853529865,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 52
+GlobalID       : e9ea4158-b535-41f8-83b5-676b7115a5dc
+CreationDate   : 1751311829006
+Creator        : jessica.moore_nifc
+EditDate       : 1751311829006
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/52/attachments/52' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31712068708464,39.61396110119797,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 53
+GlobalID       : c677cead-f3b8-4ada-a816-e4d16d8ceecb
+CreationDate   : 1751311884459
+Creator        : jessica.moore_nifc
+EditDate       : 1751311884459
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/53/attachments/53' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31721633071294,39.61401085634152,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 54
+GlobalID       : febb258f-0942-456e-9c64-d7a5e55add31
+CreationDate   : 1751312029230
+Creator        : jessica.moore_nifc
+EditDate       : 1751312029230
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/54/attachments/54' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31768068066307,39.61452741694803,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 55
+GlobalID       : 63ae9eaf-8446-42b5-a2cd-ee9447a296e4
+CreationDate   : 1751312134816
+Creator        : jessica.moore_nifc
+EditDate       : 1751312134816
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/55/attachments/55' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31788608045281,39.61492472722332,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 56
+GlobalID       : afa34226-88eb-4fd5-afc6-5678d4a24c8a
+CreationDate   : 1751312257844
+Creator        : jessica.moore_nifc
+EditDate       : 1751312257844
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/56/attachments/56' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3182119488137,39.61519469406537,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 57
+GlobalID       : 112d1cfd-2921-4417-a81f-446528c4d97f
+CreationDate   : 1751312471879
+Creator        : jessica.moore_nifc
+EditDate       : 1751312471879
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/57/attachments/57' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/57/attachments/58' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31840515397343,39.615472711381685,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 58
+GlobalID       : 7b5606dc-3fdd-4811-ab1f-7de4662e83bd
+CreationDate   : 1751312773598
+Creator        : jessica.moore_nifc
+EditDate       : 1751312773598
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/58/attachments/59' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/58/attachments/60' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31870906750876,39.61603163247137,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 59
+GlobalID       : 51f1c6fe-3512-439c-8ac5-a905bdcbfe60
+CreationDate   : 1751312835983
+Creator        : jessica.moore_nifc
+EditDate       : 1751312835983
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/59/attachments/61' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31868930187757,39.616289985988736,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 60
+GlobalID       : df8494c7-ccde-4435-8268-84c774cd70fa
+CreationDate   : 1751313032176
+Creator        : jessica.moore_nifc
+EditDate       : 1751313032176
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/60/attachments/62' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/60/attachments/63' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31908733190525,39.6165138790883,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 61
+GlobalID       : 919bbbae-cbbe-48d5-8b4e-e0c0e5a089fe
+CreationDate   : 1751313101697
+Creator        : jessica.moore_nifc
+EditDate       : 1751313101697
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/61/attachments/64' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31926081994278,39.616819913477634,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 62
+GlobalID       : 0c82f0c0-7392-4004-b1bb-3922f2731ad4
+CreationDate   : 1751313259416
+Creator        : jessica.moore_nifc
+EditDate       : 1751313259416
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/62/attachments/65' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3193729844875,39.6172407604529,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 63
+GlobalID       : 47c445ae-a4f9-41d1-a3bf-93959cd9b947
+CreationDate   : 1751383148537
+Creator        : jessica.moore_nifc
+EditDate       : 1751383148537
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/63/attachments/66' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32011896705899,39.61840648711057,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 64
+GlobalID       : 7ba9ab61-0180-4fb8-8c8d-2960dd8a6cac
+CreationDate   : 1751383241452
+Creator        : jessica.moore_nifc
+EditDate       : 1751383241452
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/64/attachments/67' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32010110944945,39.61853074720185,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 65
+GlobalID       : af07d1aa-ffcf-46de-b48e-d56cba91cc89
+CreationDate   : 1751383544967
+Creator        : jessica.moore_nifc
+EditDate       : 1751383544967
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/65/attachments/68' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32015410016974,39.61862272908705,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 66
+Notes          : Aspen restoration
+GlobalID       : cb7a1219-0675-4fb9-b348-4c5ad9113879
+CreationDate   : 1751384020015
+Creator        : jessica.moore_nifc
+EditDate       : 1751384020015
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/66/attachments/69' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32072194861703,39.618650865585494,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 67
+GlobalID       : db5039f7-5342-4b29-989f-5ec87f76d50e
+CreationDate   : 1751384755009
+Creator        : jessica.moore_nifc
+EditDate       : 1751384755009
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/67/attachments/70' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32235307537397,39.619158585526584,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 68
+GlobalID       : 85d7870d-603e-4896-894d-d65b3d5aec7b
+CreationDate   : 1751385235298
+Creator        : jessica.moore_nifc
+EditDate       : 1751385235298
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/68/attachments/71' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/68/attachments/72' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3226756783588,39.61884394361581,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 69
+GlobalID       : 613902b9-b3f3-4d30-88f5-735887eb5054
+CreationDate   : 1751385490290
+Creator        : jessica.moore_nifc
+EditDate       : 1751385490290
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/69/attachments/73' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/69/attachments/74' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32249509003724,39.61850916023433,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 70
+GlobalID       : 333926f9-9e4f-48f6-bff6-2424d1d85a8c
+CreationDate   : 1751385813258
+Creator        : jessica.moore_nifc
+EditDate       : 1751385813258
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/70/attachments/75' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32223601950255,39.618350126022065,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 71
+GlobalID       : 7fe9e049-2300-442b-b203-5ec92379183c
+CreationDate   : 1751385986531
+Creator        : jessica.moore_nifc
+EditDate       : 1751385986531
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/71/attachments/76' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/71/attachments/77' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32189617964404,39.61827103330939,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 72
+GlobalID       : fccad756-53e7-476b-98ad-4896daef278c
+CreationDate   : 1751386435320
+Creator        : jessica.moore_nifc
+EditDate       : 1751386435320
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/72/attachments/78' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32142174251156,39.61820417128671,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 73
+GlobalID       : 737a4de7-d19a-41ae-9b22-5f2823a909ca
+CreationDate   : 1751386931281
+Creator        : jessica.moore_nifc
+EditDate       : 1751386931281
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/73/attachments/79' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3204970859284,39.61823451745241,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 74
+GlobalID       : 743ecb97-45c5-4ed5-8850-d7da6ddb4aa3
+CreationDate   : 1751387076114
+Creator        : jessica.moore_nifc
+EditDate       : 1751387076114
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/74/attachments/80' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32010491381469,39.618219960234946,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 75
+GlobalID       : eb2d32d0-a6f0-4637-b982-a7c751a8a771
+CreationDate   : 1751465567670
+Creator        : jessica.moore_nifc
+EditDate       : 1751465567670
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/75/attachments/81' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32051379998255,39.61933001176778,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 76
+GlobalID       : ec36efd5-2f2b-4389-9c27-f552b6070008
+CreationDate   : 1751465832915
+Creator        : jessica.moore_nifc
+EditDate       : 1751465832915
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/76/attachments/82' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32073134679153,39.61978980325393,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 77
+GlobalID       : ab564b9c-63dd-4175-bc28-34864b73c27c
+CreationDate   : 1751465920679
+Creator        : jessica.moore_nifc
+EditDate       : 1751465920679
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/77/attachments/83' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32103336667828,39.619894863680614,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 78
+GlobalID       : 3a98ec52-ee84-422d-b5f4-805ba972ba60
+CreationDate   : 1751466020850
+Creator        : jessica.moore_nifc
+EditDate       : 1751466020850
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/78/attachments/84' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32126681726103,39.61989783013431,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 79
+GlobalID       : 46df200c-fde9-4e31-8951-e772d24bb094
+CreationDate   : 1751466087646
+Creator        : jessica.moore_nifc
+EditDate       : 1751466087646
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/79/attachments/85' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32151807245273,39.61979858222604,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 80
+GlobalID       : df17543d-92fc-41e9-8523-786232a90c9d
+CreationDate   : 1751466190056
+Creator        : jessica.moore_nifc
+EditDate       : 1751466190056
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/80/attachments/86' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.3218697062926,39.61965980417055,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 81
+GlobalID       : 5d00799e-eaec-418e-9e32-0b4b56d423c1
+CreationDate   : 1751466306548
+Creator        : jessica.moore_nifc
+EditDate       : 1751466306548
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/81/attachments/87' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32228929139553,39.6194677947408,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 82
+GlobalID       : 7584047d-02c3-4883-ba83-8022187496fe
+CreationDate   : 1751468613180
+Creator        : jessica.moore_nifc
+EditDate       : 1751468613180
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/82/attachments/88' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32126178040726,39.61948075324728,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 83
+GlobalID       : 63377a90-6d17-4792-ad1e-cf0fdb81ad8a
+CreationDate   : 1751470278693
+Creator        : jessica.moore_nifc
+EditDate       : 1751470278693
+Editor         : jessica.moore_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/83/attachments/89' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32061712869812,39.61952928448267,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 84
+GlobalID       : 52b09ce2-4bda-4183-a02c-9d4d31d59cc4
+CreationDate   : 1751474447984
+Creator        : ddalton_nifc
+EditDate       : 1751474447984
+Editor         : ddalton_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/84/attachments/90' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.31967921747291,39.61922644168252,0</coordinates></Point></Placemark><Placemark><name>Photo</name><visibility>1</visibility><styleUrl>#Photo</styleUrl><description><![CDATA[&lt;pre style='font-family:sans-serif;font-size:12px;'&gt;OBJECTID       : 85
+GlobalID       : b7ea84c8-9536-450c-a260-a12cc71dfcab
+CreationDate   : 1751474761057
+Creator        : ddalton_nifc
+EditDate       : 1751474761057
+Editor         : ddalton_nifc
+Class          : Photo
+ThreeSisters   : No
+&lt;/pre&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/85/attachments/91' style='max-width:200px;margin:5px 0;'/&gt;]]></description><Point><coordinates>-105.32048168610946,39.61908675945503,0</coordinates></Point></Placemark></Folder></Document></kml>
