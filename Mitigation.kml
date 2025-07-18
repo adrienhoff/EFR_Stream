@@ -1948,23 +1948,6 @@ Image: https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitiga
         <coordinates>-105.32048168610946,39.61908675945503,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
-      <name>Landing/Log Deck</name>
-      <visibility>1</visibility>
-      <styleUrl>#Landing/Log_Deck</styleUrl>
-      <ExtendedData/>
-      <description>OBJECTID: 87
-GlobalID: 5bd4147b-7bd3-4e9d-963d-1e7050b220dd
-CreationDate: 1752872027632
-Creator: ahoff_nifc
-EditDate: 1752872027632
-Editor: ahoff_nifc
-Class: Landing/Log Deck
-ThreeSisters: No</description>
-      <Point>
-        <coordinates>-105.47715331904378,39.607427431147,0</coordinates>
-      </Point>
-    </Placemark>
     <Folder>
       <name>Mitigation Lines</name>
       <Placemark>
