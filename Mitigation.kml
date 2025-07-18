@@ -8,7 +8,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>1.0</scale>
+        <scale>0.5</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="default">
@@ -28,7 +28,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>1.0</scale>
+        <scale>0.5</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Hazard_Tree">
@@ -48,7 +48,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>1.0</scale>
+        <scale>0.5</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Hazard">
@@ -68,7 +68,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>1.0</scale>
+        <scale>0.5</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Landing/Log_Deck">
@@ -88,7 +88,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>1.0</scale>
+        <scale>0.5</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Missed_Tree">
@@ -108,7 +108,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>1.0</scale>
+        <scale>0.5</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Photo">
@@ -874,7 +874,7 @@
     <Folder>
       <name>Mitigation Lines</name>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 1, 'Shape__Length': 422.1083847271708, 'Notes': '73 roadside completed', 'GlobalID': 'd148719f-32fd-4311-b01d-2f65e11cf87d', 'CreationDate': 1736346498763, 'Creator': 'jestle_nifc', 'EditDate': 1736445308183, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': None}]]&gt;</description>
@@ -884,7 +884,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 2, 'Shape__Length': 533.1648589311727, 'Notes': None, 'GlobalID': 'd7baf7f4-4659-4b03-8d12-876ed84b22dd', 'CreationDate': 1736445260171, 'Creator': 'jestle_nifc', 'EditDate': 1748371472907, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': None}]]&gt;</description>
@@ -894,7 +894,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 3, 'Shape__Length': 343.98805812553655, 'Notes': None, 'GlobalID': '1d221b7a-efac-4191-9b67-fab762dc4d20', 'CreationDate': 1736445552927, 'Creator': 'jestle_nifc', 'EditDate': 1748371619914, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': None}]]&gt;</description>
@@ -904,7 +904,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 4, 'Shape__Length': 284.1874846106924, 'Notes': None, 'GlobalID': '81d96a53-8071-4973-9213-36b38beb9976', 'CreationDate': 1736445602637, 'Creator': 'jestle_nifc', 'EditDate': 1748351278164, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': None}]]&gt;</description>
@@ -914,7 +914,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 5, 'Shape__Length': 369.37257467726226, 'Notes': None, 'GlobalID': 'fd7d0e7d-1f9a-4eb1-b6a9-09cf3d8814d0', 'CreationDate': 1736445716586, 'Creator': 'jestle_nifc', 'EditDate': 1736445716586, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -924,7 +924,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 6, 'Shape__Length': 240.60221657934747, 'Notes': None, 'GlobalID': '4dab2800-4c20-48a5-b368-3d72f834be97', 'CreationDate': 1736445776642, 'Creator': 'jestle_nifc', 'EditDate': 1736445776642, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -934,7 +934,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 7, 'Shape__Length': 1455.6336227285653, 'Notes': None, 'GlobalID': 'c996ff42-1c2c-4681-90c0-2941b58e2e56', 'CreationDate': 1736446876828, 'Creator': 'jestle_nifc', 'EditDate': 1748371487236, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': None}]]&gt;</description>
@@ -944,7 +944,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 8, 'Shape__Length': 1283.0592999962726, 'Notes': None, 'GlobalID': '795442cc-44ff-4ff7-8280-d9b85e739928', 'CreationDate': 1736447010338, 'Creator': 'jestle_nifc', 'EditDate': 1748371567213, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': None}]]&gt;</description>
@@ -954,7 +954,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 9, 'Shape__Length': 995.5529670364185, 'Notes': None, 'GlobalID': '09be2717-6019-410a-b071-bc579a27b340', 'CreationDate': 1736447094328, 'Creator': 'jestle_nifc', 'EditDate': 1736447094328, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -964,7 +964,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 10, 'Shape__Length': 2418.092372293173, 'Notes': None, 'GlobalID': 'e5c11ffa-a04c-4054-97d9-d4820d7e9c1f', 'CreationDate': 1736447192276, 'Creator': 'jestle_nifc', 'EditDate': 1736447192276, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -974,7 +974,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 11, 'Shape__Length': 511.92450801691047, 'Notes': None, 'GlobalID': 'c68a866c-e086-4916-a99d-80f2d5dd296e', 'CreationDate': 1736447249104, 'Creator': 'jestle_nifc', 'EditDate': 1736447249104, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -984,7 +984,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 12, 'Shape__Length': 438.7604585106466, 'Notes': None, 'GlobalID': '811cfc81-952e-47f2-b396-95e2e6cbe64f', 'CreationDate': 1736779233069, 'Creator': 'jestle_nifc', 'EditDate': 1736779336183, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -994,7 +994,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 14, 'Shape__Length': 88.53621003510578, 'Notes': None, 'GlobalID': 'f6454053-05c8-4112-89da-911b1b1fb149', 'CreationDate': 1738871427436, 'Creator': 'jestle_nifc', 'EditDate': 1738871427436, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -1004,7 +1004,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Not Started</name>
         <visibility>1</visibility>
         <styleUrl>#Not_Started</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 15, 'Shape__Length': 30.69872454020274, 'Notes': None, 'GlobalID': '6723bde0-b0cd-44e1-955b-0baedfda4c11', 'CreationDate': 1738871463300, 'Creator': 'jestle_nifc', 'EditDate': 1738871463300, 'Editor': 'jestle_nifc', 'Status': 'Not Started', 'Three_Sisters': None}]]&gt;</description>
@@ -1014,7 +1014,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 22, 'Shape__Length': 282.89597510018376, 'Notes': None, 'GlobalID': '9861b6df-618a-41be-ac19-349168a07ede', 'CreationDate': 1741881538075, 'Creator': 'mfeller_nifc', 'EditDate': 1741881538075, 'Editor': 'mfeller_nifc', 'Status': 'Completed Area', 'Three_Sisters': None}]]&gt;</description>
@@ -1024,7 +1024,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 24, 'Shape__Length': 311.9941913791201, 'Notes': None, 'GlobalID': 'a28f81f6-4952-4bad-a567-0c6a0d662d54', 'CreationDate': 1750257349459, 'Creator': 'jestle_nifc', 'EditDate': 1750257349459, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': 'Yes'}]]&gt;</description>
@@ -1034,7 +1034,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 25, 'Shape__Length': 562.0923916314035, 'Notes': None, 'GlobalID': 'b8b486c0-bcd0-435e-b422-aa3acdc6fe13', 'CreationDate': 1750257352316, 'Creator': 'jestle_nifc', 'EditDate': 1750257352316, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': 'Yes'}]]&gt;</description>
@@ -1044,7 +1044,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>Completed Area</name>
         <visibility>1</visibility>
         <styleUrl>#Completed_Area</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 26, 'Shape__Length': 265.8178061426406, 'Notes': None, 'GlobalID': 'df3dc62d-0876-4ce5-844b-f50bf87735aa', 'CreationDate': 1750261605433, 'Creator': 'jestle_nifc', 'EditDate': 1750261605433, 'Editor': 'jestle_nifc', 'Status': 'Completed Area', 'Three_Sisters': 'Yes'}]]&gt;</description>
@@ -1054,7 +1054,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>In Progress</name>
         <visibility>1</visibility>
         <styleUrl>#In_Progress</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 27, 'Shape__Length': 575.9825312364103, 'Notes': 'Marked, cut, needs to be cleaned', 'GlobalID': 'df371fd9-fb98-491d-9e46-8612b28ed883', 'CreationDate': 1752606201697, 'Creator': 'jessica.moore_nifc', 'EditDate': 1752606250002, 'Editor': 'jessica.moore_nifc', 'Status': 'In Progress', 'Three_Sisters': 'No'}]]&gt;</description>
@@ -1064,7 +1064,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>In Progress</name>
         <visibility>1</visibility>
         <styleUrl>#In_Progress</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 28, 'Shape__Length': 897.450165000395, 'Notes': 'Marked', 'GlobalID': '5b486ad9-7923-498a-8b84-860a693f5729', 'CreationDate': 1752606489076, 'Creator': 'jessica.moore_nifc', 'EditDate': 1752606489076, 'Editor': 'jessica.moore_nifc', 'Status': 'In Progress', 'Three_Sisters': 'No'}]]&gt;</description>
@@ -1074,7 +1074,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>In Progress</name>
         <visibility>1</visibility>
         <styleUrl>#In_Progress</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 29, 'Shape__Length': 320.23156846397774, 'Notes': 'Marked, some cut', 'GlobalID': 'cb243cb5-e114-4a25-b086-3823617e3c7e', 'CreationDate': 1752606915912, 'Creator': 'jessica.moore_nifc', 'EditDate': 1752606915912, 'Editor': 'jessica.moore_nifc', 'Status': 'In Progress', 'Three_Sisters': 'No'}]]&gt;</description>
@@ -1084,7 +1084,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>In Progress</name>
         <visibility>1</visibility>
         <styleUrl>#In_Progress</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 30, 'Shape__Length': 823.2798923723855, 'Notes': 'Drainage and power line along 73 is marked, everything else needs 6”dbh and smaller cut, use spider chipper, broadcast uphill away from aspens, do NOT cut aspen, cut all regen inside aspen stands (october)', 'GlobalID': 'c7fe7444-7428-4d2d-a152-ddf0b92afbad', 'CreationDate': 1752608133422, 'Creator': 'jessica.moore_nifc', 'EditDate': 1752608133422, 'Editor': 'jessica.moore_nifc', 'Status': 'In Progress', 'Three_Sisters': 'No'}]]&gt;</description>
@@ -1094,7 +1094,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed</name>
+        <name>In Progress</name>
         <visibility>1</visibility>
         <styleUrl>#In_Progress</styleUrl>
         <description>&lt;![CDATA[{'OBJECTID': 31, 'Shape__Length': 511.9189826032312, 'Notes': 'Marked, cut, needs to be cleaned', 'GlobalID': '4eaeb9b4-8077-450d-acbb-0c9ae1f32b0c', 'CreationDate': 1752608218861, 'Creator': 'jessica.moore_nifc', 'EditDate': 1752608218861, 'Editor': 'jessica.moore_nifc', 'Status': 'In Progress', 'Three_Sisters': 'No'}]]&gt;</description>
