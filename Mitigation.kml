@@ -8,7 +8,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>0.5</scale>
+        <scale>1.0</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="default">
@@ -28,7 +28,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>0.5</scale>
+        <scale>1.0</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Hazard_Tree">
@@ -48,7 +48,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>0.5</scale>
+        <scale>1.0</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Hazard">
@@ -68,7 +68,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>0.5</scale>
+        <scale>1.0</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Landing/Log_Deck">
@@ -88,7 +88,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>0.5</scale>
+        <scale>1.0</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Missed_Tree">
@@ -108,7 +108,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>0.5</scale>
+        <scale>1.0</scale>
       </LabelStyle>
     </Style>
     <StyleMap id="Photo">
@@ -236,7 +236,7 @@
       <name>Landing/Log Deck</name>
       <visibility>1</visibility>
       <styleUrl>#Landing/Log_Deck</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 15&lt;br&gt;Notes: Pic &lt;br&gt;GlobalID: 9524d63b-2a46-4c59-bd63-45a46a27ee78&lt;br&gt;CreationDate: 1751294456925&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751294456925&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Landing/Log Deck&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/15/attachments/2' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 15&lt;br&gt;Notes: Pic &lt;br&gt;GlobalID: 9524d63b-2a46-4c59-bd63-45a46a27ee78&lt;br&gt;CreationDate: 1751294456925&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751294456925&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Landing/Log Deck&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31936502361744,39.614132810200616,0</coordinates>
       </Point>
@@ -245,7 +245,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 16&lt;br&gt;GlobalID: 0a5b5196-e4cd-4cdc-b8a7-81cca697e465&lt;br&gt;CreationDate: 1751294825039&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751294825039&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/16/attachments/3' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 16&lt;br&gt;GlobalID: 0a5b5196-e4cd-4cdc-b8a7-81cca697e465&lt;br&gt;CreationDate: 1751294825039&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751294825039&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3193989637655,39.61415424282798,0</coordinates>
       </Point>
@@ -254,7 +254,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 17&lt;br&gt;GlobalID: fc8d6e34-63aa-4e63-a098-d288383babd1&lt;br&gt;CreationDate: 1751294860364&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751294860364&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/17/attachments/4' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 17&lt;br&gt;GlobalID: fc8d6e34-63aa-4e63-a098-d288383babd1&lt;br&gt;CreationDate: 1751294860364&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751294860364&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31943789225835,39.61412663666709,0</coordinates>
       </Point>
@@ -263,7 +263,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 18&lt;br&gt;GlobalID: ebc9c32f-ca5f-46da-98a7-f3ca0306ed1a&lt;br&gt;CreationDate: 1751295877282&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751295877282&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/18/attachments/5' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/18/attachments/6' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 18&lt;br&gt;GlobalID: ebc9c32f-ca5f-46da-98a7-f3ca0306ed1a&lt;br&gt;CreationDate: 1751295877282&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751295877282&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31853317827445,39.613399635404754,0</coordinates>
       </Point>
@@ -272,7 +272,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 19&lt;br&gt;GlobalID: 646e2aa6-edd1-45c6-a75d-8f3e57088616&lt;br&gt;CreationDate: 1751296913365&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751296913365&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/19/attachments/7' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/19/attachments/8' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 19&lt;br&gt;GlobalID: 646e2aa6-edd1-45c6-a75d-8f3e57088616&lt;br&gt;CreationDate: 1751296913365&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751296913365&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31785457114589,39.613102029387306,0</coordinates>
       </Point>
@@ -281,7 +281,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 20&lt;br&gt;GlobalID: f32abd83-cfd4-40c9-a9b9-bb3e8705b46c&lt;br&gt;CreationDate: 1751297769224&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751297769224&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/20/attachments/9' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 20&lt;br&gt;GlobalID: f32abd83-cfd4-40c9-a9b9-bb3e8705b46c&lt;br&gt;CreationDate: 1751297769224&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751297769224&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31781437692683,39.61319972221377,0</coordinates>
       </Point>
@@ -290,7 +290,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 21&lt;br&gt;GlobalID: da1e926f-fd71-4f31-89ed-a30c6e9e95f0&lt;br&gt;CreationDate: 1751298265728&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298265728&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/21/attachments/10' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 21&lt;br&gt;GlobalID: da1e926f-fd71-4f31-89ed-a30c6e9e95f0&lt;br&gt;CreationDate: 1751298265728&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298265728&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31782003810973,39.61300828586002,0</coordinates>
       </Point>
@@ -299,7 +299,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 22&lt;br&gt;GlobalID: 6de0e4a4-9011-40b4-a17e-8de61601a6da&lt;br&gt;CreationDate: 1751298579611&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298579611&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/22/attachments/11' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/22/attachments/12' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 22&lt;br&gt;GlobalID: 6de0e4a4-9011-40b4-a17e-8de61601a6da&lt;br&gt;CreationDate: 1751298579611&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298579611&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3170348674323,39.613042630104964,0</coordinates>
       </Point>
@@ -308,7 +308,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 23&lt;br&gt;GlobalID: fac428a4-9433-4cf8-bd80-d5b8d62e7c09&lt;br&gt;CreationDate: 1751298616048&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298616048&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/23/attachments/13' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/23/attachments/14' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 23&lt;br&gt;GlobalID: fac428a4-9433-4cf8-bd80-d5b8d62e7c09&lt;br&gt;CreationDate: 1751298616048&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298616048&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31696245154228,39.61312630589593,0</coordinates>
       </Point>
@@ -317,7 +317,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 24&lt;br&gt;GlobalID: 1c5c50b1-f558-48ca-986c-370d1c2f9b4a&lt;br&gt;CreationDate: 1751298676354&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298676354&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/24/attachments/15' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 24&lt;br&gt;GlobalID: 1c5c50b1-f558-48ca-986c-370d1c2f9b4a&lt;br&gt;CreationDate: 1751298676354&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751298676354&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31714593064244,39.61317134267226,0</coordinates>
       </Point>
@@ -326,7 +326,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 25&lt;br&gt;GlobalID: e0adb13d-5335-4302-a1bb-c78ed4602819&lt;br&gt;CreationDate: 1751300578120&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751300578120&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/25/attachments/16' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 25&lt;br&gt;GlobalID: e0adb13d-5335-4302-a1bb-c78ed4602819&lt;br&gt;CreationDate: 1751300578120&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751300578120&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31809894075094,39.61357094373173,0</coordinates>
       </Point>
@@ -335,7 +335,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 26&lt;br&gt;GlobalID: 93ca8319-b543-437c-a394-85bcbea48567&lt;br&gt;CreationDate: 1751300677394&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751300677394&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/26/attachments/17' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 26&lt;br&gt;GlobalID: 93ca8319-b543-437c-a394-85bcbea48567&lt;br&gt;CreationDate: 1751300677394&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751300677394&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31837077095592,39.614019222908496,0</coordinates>
       </Point>
@@ -344,7 +344,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 27&lt;br&gt;GlobalID: 392a697e-fd99-437b-8c41-6aaed825a268&lt;br&gt;CreationDate: 1751300745856&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751300745856&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/27/attachments/18' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 27&lt;br&gt;GlobalID: 392a697e-fd99-437b-8c41-6aaed825a268&lt;br&gt;CreationDate: 1751300745856&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751300745856&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3184875905704,39.61405164628711,0</coordinates>
       </Point>
@@ -353,7 +353,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 28&lt;br&gt;GlobalID: 661825eb-c333-4b7d-b2d3-78290f679178&lt;br&gt;CreationDate: 1751301880042&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751301880042&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/28/attachments/19' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 28&lt;br&gt;GlobalID: 661825eb-c333-4b7d-b2d3-78290f679178&lt;br&gt;CreationDate: 1751301880042&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751301880042&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3169244375344,39.613649996141284,0</coordinates>
       </Point>
@@ -362,7 +362,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 29&lt;br&gt;GlobalID: 01bcd9f3-0cbc-4890-b704-7db725582fcc&lt;br&gt;CreationDate: 1751301979335&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751301979335&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/29/attachments/20' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 29&lt;br&gt;GlobalID: 01bcd9f3-0cbc-4890-b704-7db725582fcc&lt;br&gt;CreationDate: 1751301979335&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751301979335&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3167558605865,39.61338212427822,0</coordinates>
       </Point>
@@ -371,7 +371,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 30&lt;br&gt;GlobalID: 6e0da47f-a988-4b60-84b9-79f330bf9066&lt;br&gt;CreationDate: 1751308889413&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751308889413&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/30/attachments/21' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 30&lt;br&gt;GlobalID: 6e0da47f-a988-4b60-84b9-79f330bf9066&lt;br&gt;CreationDate: 1751308889413&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751308889413&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31956496165023,39.617400760464115,0</coordinates>
       </Point>
@@ -380,7 +380,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 31&lt;br&gt;GlobalID: 6419b96c-a937-41e7-9b76-462e43cf7744&lt;br&gt;CreationDate: 1751308969651&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751308969651&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/31/attachments/22' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 31&lt;br&gt;GlobalID: 6419b96c-a937-41e7-9b76-462e43cf7744&lt;br&gt;CreationDate: 1751308969651&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751308969651&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31953944320796,39.61721337557634,0</coordinates>
       </Point>
@@ -389,7 +389,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 32&lt;br&gt;GlobalID: 69080de0-1e9f-4012-b58b-45003d085a39&lt;br&gt;CreationDate: 1751309076560&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309076560&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/32/attachments/23' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 32&lt;br&gt;GlobalID: 69080de0-1e9f-4012-b58b-45003d085a39&lt;br&gt;CreationDate: 1751309076560&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309076560&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31952887991852,39.61677926979044,0</coordinates>
       </Point>
@@ -398,7 +398,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 33&lt;br&gt;GlobalID: 41655758-43b3-42ff-9cdc-45566090779f&lt;br&gt;CreationDate: 1751309292235&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309292235&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/33/attachments/24' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 33&lt;br&gt;GlobalID: 41655758-43b3-42ff-9cdc-45566090779f&lt;br&gt;CreationDate: 1751309292235&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309292235&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31941334219994,39.61623344602439,0</coordinates>
       </Point>
@@ -407,7 +407,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 34&lt;br&gt;GlobalID: 8d423695-8aaa-43f1-88ac-3bd7c9ddebbb&lt;br&gt;CreationDate: 1751309424419&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309424419&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/34/attachments/25' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 34&lt;br&gt;GlobalID: 8d423695-8aaa-43f1-88ac-3bd7c9ddebbb&lt;br&gt;CreationDate: 1751309424419&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309424419&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.319375330887,39.61595553348816,0</coordinates>
       </Point>
@@ -416,7 +416,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 35&lt;br&gt;GlobalID: 91798143-4d83-4609-b4cb-a3783be81cda&lt;br&gt;CreationDate: 1751309486617&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309486617&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/35/attachments/26' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 35&lt;br&gt;GlobalID: 91798143-4d83-4609-b4cb-a3783be81cda&lt;br&gt;CreationDate: 1751309486617&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309486617&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31937476764332,39.61566155419707,0</coordinates>
       </Point>
@@ -425,7 +425,7 @@
       <name>Hazard</name>
       <visibility>1</visibility>
       <styleUrl>#Hazard</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 36&lt;br&gt;Notes: Old dump site&lt;br&gt;GlobalID: 76eb9591-614c-4f0e-b14d-d22085b67099&lt;br&gt;CreationDate: 1751309582385&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309582385&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Hazard&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/36/attachments/27' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 36&lt;br&gt;Notes: Old dump site&lt;br&gt;GlobalID: 76eb9591-614c-4f0e-b14d-d22085b67099&lt;br&gt;CreationDate: 1751309582385&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309582385&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Hazard&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31936084914632,39.61567054475502,0</coordinates>
       </Point>
@@ -434,7 +434,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 37&lt;br&gt;GlobalID: 06f776d6-078c-4a68-8f5c-9cf1e04f97d2&lt;br&gt;CreationDate: 1751309656632&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309656632&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/37/attachments/28' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 37&lt;br&gt;GlobalID: 06f776d6-078c-4a68-8f5c-9cf1e04f97d2&lt;br&gt;CreationDate: 1751309656632&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309656632&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31924365044277,39.61554235030492,0</coordinates>
       </Point>
@@ -443,7 +443,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 38&lt;br&gt;GlobalID: 4bbb5d9b-4392-49a2-9f1a-8ffaecaa8e17&lt;br&gt;CreationDate: 1751309877834&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309877834&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/38/attachments/29' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 38&lt;br&gt;GlobalID: 4bbb5d9b-4392-49a2-9f1a-8ffaecaa8e17&lt;br&gt;CreationDate: 1751309877834&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751309877834&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31919739349384,39.615225938397614,0</coordinates>
       </Point>
@@ -452,7 +452,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 39&lt;br&gt;GlobalID: 9d0bbe5e-2168-433c-a92f-14de4b51988b&lt;br&gt;CreationDate: 1751310033018&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310033018&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/39/attachments/30' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 39&lt;br&gt;GlobalID: 9d0bbe5e-2168-433c-a92f-14de4b51988b&lt;br&gt;CreationDate: 1751310033018&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310033018&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31989780992087,39.615261279422626,0</coordinates>
       </Point>
@@ -461,7 +461,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 40&lt;br&gt;GlobalID: 5104477a-36ae-497d-a58f-5fe557d798c6&lt;br&gt;CreationDate: 1751310135316&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310135316&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/40/attachments/31' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 40&lt;br&gt;GlobalID: 5104477a-36ae-497d-a58f-5fe557d798c6&lt;br&gt;CreationDate: 1751310135316&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310135316&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32012601074914,39.615165326456264,0</coordinates>
       </Point>
@@ -470,7 +470,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 41&lt;br&gt;GlobalID: 6424b871-95be-45e5-8339-15643d591347&lt;br&gt;CreationDate: 1751310272460&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310272460&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/41/attachments/32' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 41&lt;br&gt;GlobalID: 6424b871-95be-45e5-8339-15643d591347&lt;br&gt;CreationDate: 1751310272460&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310272460&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3203100198553,39.61496402672371,0</coordinates>
       </Point>
@@ -479,7 +479,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 42&lt;br&gt;GlobalID: 1f543dcc-ca16-4fa3-af60-a0e2f07aaf78&lt;br&gt;CreationDate: 1751310351685&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310351685&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/42/attachments/33' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 42&lt;br&gt;GlobalID: 1f543dcc-ca16-4fa3-af60-a0e2f07aaf78&lt;br&gt;CreationDate: 1751310351685&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310351685&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32030707158455,39.61466120339354,0</coordinates>
       </Point>
@@ -488,7 +488,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 43&lt;br&gt;GlobalID: 626761f4-60f2-4b3e-8a3e-b80a18c7e199&lt;br&gt;CreationDate: 1751310447172&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310447172&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/43/attachments/34' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/43/attachments/35' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 43&lt;br&gt;GlobalID: 626761f4-60f2-4b3e-8a3e-b80a18c7e199&lt;br&gt;CreationDate: 1751310447172&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310447172&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32006657012509,39.61454361640986,0</coordinates>
       </Point>
@@ -497,7 +497,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 44&lt;br&gt;Notes: All four directions&lt;br&gt;GlobalID: ed6494f2-efe2-4306-a8f2-72696a26e756&lt;br&gt;CreationDate: 1751310682537&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310682537&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/36' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/37' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/38' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/44/attachments/39' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 44&lt;br&gt;Notes: All four directions&lt;br&gt;GlobalID: ed6494f2-efe2-4306-a8f2-72696a26e756&lt;br&gt;CreationDate: 1751310682537&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310682537&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31959807804319,39.61467110754409,0</coordinates>
       </Point>
@@ -506,7 +506,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 45&lt;br&gt;GlobalID: 87055ca4-47e3-487b-82ef-2e89b2562b51&lt;br&gt;CreationDate: 1751310869372&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310869372&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/45/attachments/40' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/45/attachments/41' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 45&lt;br&gt;GlobalID: 87055ca4-47e3-487b-82ef-2e89b2562b51&lt;br&gt;CreationDate: 1751310869372&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310869372&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31867871613026,39.614311977377575,0</coordinates>
       </Point>
@@ -515,7 +515,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 46&lt;br&gt;GlobalID: 0f262cba-2d1e-47c1-a134-fb1145340912&lt;br&gt;CreationDate: 1751310939025&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310939025&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/46/attachments/42' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/46/attachments/43' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 46&lt;br&gt;GlobalID: 0f262cba-2d1e-47c1-a134-fb1145340912&lt;br&gt;CreationDate: 1751310939025&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751310939025&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31852752337974,39.61422207413303,0</coordinates>
       </Point>
@@ -524,7 +524,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 47&lt;br&gt;GlobalID: f11a65fc-51c0-4af9-a6ca-832404022055&lt;br&gt;CreationDate: 1751311008324&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311008324&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/47/attachments/44' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/47/attachments/45' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 47&lt;br&gt;GlobalID: f11a65fc-51c0-4af9-a6ca-832404022055&lt;br&gt;CreationDate: 1751311008324&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311008324&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31840519529594,39.614149249886566,0</coordinates>
       </Point>
@@ -533,7 +533,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 48&lt;br&gt;GlobalID: 80bad31f-25fa-4a66-89fc-420656f00401&lt;br&gt;CreationDate: 1751311128651&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311128651&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/48/attachments/46' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 48&lt;br&gt;GlobalID: 80bad31f-25fa-4a66-89fc-420656f00401&lt;br&gt;CreationDate: 1751311128651&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311128651&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3179917681443,39.61384800219406,0</coordinates>
       </Point>
@@ -542,7 +542,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 49&lt;br&gt;GlobalID: 83a6a464-20de-475e-af3c-8bb94d5653d9&lt;br&gt;CreationDate: 1751311230983&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311230983&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/49/attachments/47' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 49&lt;br&gt;GlobalID: 83a6a464-20de-475e-af3c-8bb94d5653d9&lt;br&gt;CreationDate: 1751311230983&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311230983&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3176544795012,39.61360085733522,0</coordinates>
       </Point>
@@ -551,7 +551,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 50&lt;br&gt;GlobalID: a11e59b7-e664-449b-bb73-ef3cb03f807a&lt;br&gt;CreationDate: 1751311305535&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311305535&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/50/attachments/48' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 50&lt;br&gt;GlobalID: a11e59b7-e664-449b-bb73-ef3cb03f807a&lt;br&gt;CreationDate: 1751311305535&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311305535&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31728951645914,39.613397706025424,0</coordinates>
       </Point>
@@ -560,7 +560,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 51&lt;br&gt;Notes: Three sides&lt;br&gt;GlobalID: df4735b7-a364-4d1f-bf3d-a636867d5cab&lt;br&gt;CreationDate: 1751311511664&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311511664&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/49' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/50' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/51/attachments/51' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 51&lt;br&gt;Notes: Three sides&lt;br&gt;GlobalID: df4735b7-a364-4d1f-bf3d-a636867d5cab&lt;br&gt;CreationDate: 1751311511664&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311511664&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31694865970773,39.613781853529865,0</coordinates>
       </Point>
@@ -569,7 +569,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 52&lt;br&gt;GlobalID: e9ea4158-b535-41f8-83b5-676b7115a5dc&lt;br&gt;CreationDate: 1751311829006&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311829006&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/52/attachments/52' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 52&lt;br&gt;GlobalID: e9ea4158-b535-41f8-83b5-676b7115a5dc&lt;br&gt;CreationDate: 1751311829006&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311829006&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31712068708464,39.61396110119797,0</coordinates>
       </Point>
@@ -578,7 +578,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 53&lt;br&gt;GlobalID: c677cead-f3b8-4ada-a816-e4d16d8ceecb&lt;br&gt;CreationDate: 1751311884459&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311884459&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/53/attachments/53' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 53&lt;br&gt;GlobalID: c677cead-f3b8-4ada-a816-e4d16d8ceecb&lt;br&gt;CreationDate: 1751311884459&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751311884459&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31721633071294,39.61401085634152,0</coordinates>
       </Point>
@@ -587,7 +587,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 54&lt;br&gt;GlobalID: febb258f-0942-456e-9c64-d7a5e55add31&lt;br&gt;CreationDate: 1751312029230&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312029230&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/54/attachments/54' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 54&lt;br&gt;GlobalID: febb258f-0942-456e-9c64-d7a5e55add31&lt;br&gt;CreationDate: 1751312029230&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312029230&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31768068066307,39.61452741694803,0</coordinates>
       </Point>
@@ -596,7 +596,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 55&lt;br&gt;GlobalID: 63ae9eaf-8446-42b5-a2cd-ee9447a296e4&lt;br&gt;CreationDate: 1751312134816&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312134816&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/55/attachments/55' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 55&lt;br&gt;GlobalID: 63ae9eaf-8446-42b5-a2cd-ee9447a296e4&lt;br&gt;CreationDate: 1751312134816&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312134816&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31788608045281,39.61492472722332,0</coordinates>
       </Point>
@@ -605,7 +605,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 56&lt;br&gt;GlobalID: afa34226-88eb-4fd5-afc6-5678d4a24c8a&lt;br&gt;CreationDate: 1751312257844&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312257844&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/56/attachments/56' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 56&lt;br&gt;GlobalID: afa34226-88eb-4fd5-afc6-5678d4a24c8a&lt;br&gt;CreationDate: 1751312257844&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312257844&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3182119488137,39.61519469406537,0</coordinates>
       </Point>
@@ -614,7 +614,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 57&lt;br&gt;GlobalID: 112d1cfd-2921-4417-a81f-446528c4d97f&lt;br&gt;CreationDate: 1751312471879&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312471879&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/57/attachments/57' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/57/attachments/58' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 57&lt;br&gt;GlobalID: 112d1cfd-2921-4417-a81f-446528c4d97f&lt;br&gt;CreationDate: 1751312471879&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312471879&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31840515397343,39.615472711381685,0</coordinates>
       </Point>
@@ -623,7 +623,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 58&lt;br&gt;GlobalID: 7b5606dc-3fdd-4811-ab1f-7de4662e83bd&lt;br&gt;CreationDate: 1751312773598&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312773598&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/58/attachments/59' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/58/attachments/60' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 58&lt;br&gt;GlobalID: 7b5606dc-3fdd-4811-ab1f-7de4662e83bd&lt;br&gt;CreationDate: 1751312773598&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312773598&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31870906750876,39.61603163247137,0</coordinates>
       </Point>
@@ -632,7 +632,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 59&lt;br&gt;GlobalID: 51f1c6fe-3512-439c-8ac5-a905bdcbfe60&lt;br&gt;CreationDate: 1751312835983&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312835983&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/59/attachments/61' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 59&lt;br&gt;GlobalID: 51f1c6fe-3512-439c-8ac5-a905bdcbfe60&lt;br&gt;CreationDate: 1751312835983&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751312835983&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31868930187757,39.616289985988736,0</coordinates>
       </Point>
@@ -641,7 +641,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 60&lt;br&gt;GlobalID: df8494c7-ccde-4435-8268-84c774cd70fa&lt;br&gt;CreationDate: 1751313032176&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751313032176&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/60/attachments/62' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/60/attachments/63' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 60&lt;br&gt;GlobalID: df8494c7-ccde-4435-8268-84c774cd70fa&lt;br&gt;CreationDate: 1751313032176&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751313032176&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31908733190525,39.6165138790883,0</coordinates>
       </Point>
@@ -650,7 +650,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 61&lt;br&gt;GlobalID: 919bbbae-cbbe-48d5-8b4e-e0c0e5a089fe&lt;br&gt;CreationDate: 1751313101697&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751313101697&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/61/attachments/64' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 61&lt;br&gt;GlobalID: 919bbbae-cbbe-48d5-8b4e-e0c0e5a089fe&lt;br&gt;CreationDate: 1751313101697&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751313101697&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31926081994278,39.616819913477634,0</coordinates>
       </Point>
@@ -659,7 +659,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 62&lt;br&gt;GlobalID: 0c82f0c0-7392-4004-b1bb-3922f2731ad4&lt;br&gt;CreationDate: 1751313259416&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751313259416&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/62/attachments/65' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 62&lt;br&gt;GlobalID: 0c82f0c0-7392-4004-b1bb-3922f2731ad4&lt;br&gt;CreationDate: 1751313259416&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751313259416&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3193729844875,39.6172407604529,0</coordinates>
       </Point>
@@ -668,7 +668,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 63&lt;br&gt;GlobalID: 47c445ae-a4f9-41d1-a3bf-93959cd9b947&lt;br&gt;CreationDate: 1751383148537&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751383148537&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/63/attachments/66' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 63&lt;br&gt;GlobalID: 47c445ae-a4f9-41d1-a3bf-93959cd9b947&lt;br&gt;CreationDate: 1751383148537&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751383148537&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32011896705899,39.61840648711057,0</coordinates>
       </Point>
@@ -677,7 +677,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 64&lt;br&gt;GlobalID: 7ba9ab61-0180-4fb8-8c8d-2960dd8a6cac&lt;br&gt;CreationDate: 1751383241452&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751383241452&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/64/attachments/67' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 64&lt;br&gt;GlobalID: 7ba9ab61-0180-4fb8-8c8d-2960dd8a6cac&lt;br&gt;CreationDate: 1751383241452&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751383241452&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32010110944945,39.61853074720185,0</coordinates>
       </Point>
@@ -686,7 +686,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 65&lt;br&gt;GlobalID: af07d1aa-ffcf-46de-b48e-d56cba91cc89&lt;br&gt;CreationDate: 1751383544967&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751383544967&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/65/attachments/68' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 65&lt;br&gt;GlobalID: af07d1aa-ffcf-46de-b48e-d56cba91cc89&lt;br&gt;CreationDate: 1751383544967&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751383544967&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32015410016974,39.61862272908705,0</coordinates>
       </Point>
@@ -695,7 +695,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 66&lt;br&gt;Notes: Aspen restoration&lt;br&gt;GlobalID: cb7a1219-0675-4fb9-b348-4c5ad9113879&lt;br&gt;CreationDate: 1751384020015&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751384020015&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/66/attachments/69' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 66&lt;br&gt;Notes: Aspen restoration&lt;br&gt;GlobalID: cb7a1219-0675-4fb9-b348-4c5ad9113879&lt;br&gt;CreationDate: 1751384020015&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751384020015&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32072194861703,39.618650865585494,0</coordinates>
       </Point>
@@ -704,7 +704,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 67&lt;br&gt;GlobalID: db5039f7-5342-4b29-989f-5ec87f76d50e&lt;br&gt;CreationDate: 1751384755009&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751384755009&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/67/attachments/70' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 67&lt;br&gt;GlobalID: db5039f7-5342-4b29-989f-5ec87f76d50e&lt;br&gt;CreationDate: 1751384755009&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751384755009&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32235307537397,39.619158585526584,0</coordinates>
       </Point>
@@ -713,7 +713,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 68&lt;br&gt;GlobalID: 85d7870d-603e-4896-894d-d65b3d5aec7b&lt;br&gt;CreationDate: 1751385235298&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385235298&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/68/attachments/71' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/68/attachments/72' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 68&lt;br&gt;GlobalID: 85d7870d-603e-4896-894d-d65b3d5aec7b&lt;br&gt;CreationDate: 1751385235298&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385235298&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3226756783588,39.61884394361581,0</coordinates>
       </Point>
@@ -722,7 +722,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 69&lt;br&gt;GlobalID: 613902b9-b3f3-4d30-88f5-735887eb5054&lt;br&gt;CreationDate: 1751385490290&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385490290&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/69/attachments/73' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/69/attachments/74' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 69&lt;br&gt;GlobalID: 613902b9-b3f3-4d30-88f5-735887eb5054&lt;br&gt;CreationDate: 1751385490290&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385490290&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32249509003724,39.61850916023433,0</coordinates>
       </Point>
@@ -731,7 +731,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 70&lt;br&gt;GlobalID: 333926f9-9e4f-48f6-bff6-2424d1d85a8c&lt;br&gt;CreationDate: 1751385813258&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385813258&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/70/attachments/75' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 70&lt;br&gt;GlobalID: 333926f9-9e4f-48f6-bff6-2424d1d85a8c&lt;br&gt;CreationDate: 1751385813258&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385813258&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32223601950255,39.618350126022065,0</coordinates>
       </Point>
@@ -740,7 +740,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 71&lt;br&gt;GlobalID: 7fe9e049-2300-442b-b203-5ec92379183c&lt;br&gt;CreationDate: 1751385986531&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385986531&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/71/attachments/76' style='max-width:200px;margin:5px 0;'/&gt;&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/71/attachments/77' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 71&lt;br&gt;GlobalID: 7fe9e049-2300-442b-b203-5ec92379183c&lt;br&gt;CreationDate: 1751385986531&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751385986531&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32189617964404,39.61827103330939,0</coordinates>
       </Point>
@@ -749,7 +749,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 72&lt;br&gt;GlobalID: fccad756-53e7-476b-98ad-4896daef278c&lt;br&gt;CreationDate: 1751386435320&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751386435320&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/72/attachments/78' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 72&lt;br&gt;GlobalID: fccad756-53e7-476b-98ad-4896daef278c&lt;br&gt;CreationDate: 1751386435320&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751386435320&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32142174251156,39.61820417128671,0</coordinates>
       </Point>
@@ -758,7 +758,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 73&lt;br&gt;GlobalID: 737a4de7-d19a-41ae-9b22-5f2823a909ca&lt;br&gt;CreationDate: 1751386931281&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751386931281&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/73/attachments/79' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 73&lt;br&gt;GlobalID: 737a4de7-d19a-41ae-9b22-5f2823a909ca&lt;br&gt;CreationDate: 1751386931281&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751386931281&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3204970859284,39.61823451745241,0</coordinates>
       </Point>
@@ -767,7 +767,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 74&lt;br&gt;GlobalID: 743ecb97-45c5-4ed5-8850-d7da6ddb4aa3&lt;br&gt;CreationDate: 1751387076114&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751387076114&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/74/attachments/80' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 74&lt;br&gt;GlobalID: 743ecb97-45c5-4ed5-8850-d7da6ddb4aa3&lt;br&gt;CreationDate: 1751387076114&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751387076114&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32010491381469,39.618219960234946,0</coordinates>
       </Point>
@@ -776,7 +776,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 75&lt;br&gt;GlobalID: eb2d32d0-a6f0-4637-b982-a7c751a8a771&lt;br&gt;CreationDate: 1751465567670&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751465567670&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/75/attachments/81' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 75&lt;br&gt;GlobalID: eb2d32d0-a6f0-4637-b982-a7c751a8a771&lt;br&gt;CreationDate: 1751465567670&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751465567670&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32051379998255,39.61933001176778,0</coordinates>
       </Point>
@@ -785,7 +785,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 76&lt;br&gt;GlobalID: ec36efd5-2f2b-4389-9c27-f552b6070008&lt;br&gt;CreationDate: 1751465832915&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751465832915&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/76/attachments/82' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 76&lt;br&gt;GlobalID: ec36efd5-2f2b-4389-9c27-f552b6070008&lt;br&gt;CreationDate: 1751465832915&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751465832915&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32073134679153,39.61978980325393,0</coordinates>
       </Point>
@@ -794,7 +794,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 77&lt;br&gt;GlobalID: ab564b9c-63dd-4175-bc28-34864b73c27c&lt;br&gt;CreationDate: 1751465920679&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751465920679&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/77/attachments/83' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 77&lt;br&gt;GlobalID: ab564b9c-63dd-4175-bc28-34864b73c27c&lt;br&gt;CreationDate: 1751465920679&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751465920679&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32103336667828,39.619894863680614,0</coordinates>
       </Point>
@@ -803,7 +803,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 78&lt;br&gt;GlobalID: 3a98ec52-ee84-422d-b5f4-805ba972ba60&lt;br&gt;CreationDate: 1751466020850&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466020850&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/78/attachments/84' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 78&lt;br&gt;GlobalID: 3a98ec52-ee84-422d-b5f4-805ba972ba60&lt;br&gt;CreationDate: 1751466020850&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466020850&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32126681726103,39.61989783013431,0</coordinates>
       </Point>
@@ -812,7 +812,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 79&lt;br&gt;GlobalID: 46df200c-fde9-4e31-8951-e772d24bb094&lt;br&gt;CreationDate: 1751466087646&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466087646&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/79/attachments/85' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 79&lt;br&gt;GlobalID: 46df200c-fde9-4e31-8951-e772d24bb094&lt;br&gt;CreationDate: 1751466087646&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466087646&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32151807245273,39.61979858222604,0</coordinates>
       </Point>
@@ -821,7 +821,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 80&lt;br&gt;GlobalID: df17543d-92fc-41e9-8523-786232a90c9d&lt;br&gt;CreationDate: 1751466190056&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466190056&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/80/attachments/86' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 80&lt;br&gt;GlobalID: df17543d-92fc-41e9-8523-786232a90c9d&lt;br&gt;CreationDate: 1751466190056&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466190056&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.3218697062926,39.61965980417055,0</coordinates>
       </Point>
@@ -830,7 +830,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 81&lt;br&gt;GlobalID: 5d00799e-eaec-418e-9e32-0b4b56d423c1&lt;br&gt;CreationDate: 1751466306548&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466306548&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/81/attachments/87' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 81&lt;br&gt;GlobalID: 5d00799e-eaec-418e-9e32-0b4b56d423c1&lt;br&gt;CreationDate: 1751466306548&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751466306548&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32228929139553,39.6194677947408,0</coordinates>
       </Point>
@@ -839,7 +839,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 82&lt;br&gt;GlobalID: 7584047d-02c3-4883-ba83-8022187496fe&lt;br&gt;CreationDate: 1751468613180&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751468613180&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/82/attachments/88' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 82&lt;br&gt;GlobalID: 7584047d-02c3-4883-ba83-8022187496fe&lt;br&gt;CreationDate: 1751468613180&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751468613180&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32126178040726,39.61948075324728,0</coordinates>
       </Point>
@@ -848,7 +848,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 83&lt;br&gt;GlobalID: 63377a90-6d17-4792-ad1e-cf0fdb81ad8a&lt;br&gt;CreationDate: 1751470278693&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751470278693&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/83/attachments/89' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 83&lt;br&gt;GlobalID: 63377a90-6d17-4792-ad1e-cf0fdb81ad8a&lt;br&gt;CreationDate: 1751470278693&lt;br&gt;Creator: jessica.moore_nifc&lt;br&gt;EditDate: 1751470278693&lt;br&gt;Editor: jessica.moore_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32061712869812,39.61952928448267,0</coordinates>
       </Point>
@@ -857,7 +857,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 84&lt;br&gt;GlobalID: 52b09ce2-4bda-4183-a02c-9d4d31d59cc4&lt;br&gt;CreationDate: 1751474447984&lt;br&gt;Creator: ddalton_nifc&lt;br&gt;EditDate: 1751474447984&lt;br&gt;Editor: ddalton_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/84/attachments/90' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 84&lt;br&gt;GlobalID: 52b09ce2-4bda-4183-a02c-9d4d31d59cc4&lt;br&gt;CreationDate: 1751474447984&lt;br&gt;Creator: ddalton_nifc&lt;br&gt;EditDate: 1751474447984&lt;br&gt;Editor: ddalton_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.31967921747291,39.61922644168252,0</coordinates>
       </Point>
@@ -866,7 +866,7 @@
       <name>Photo</name>
       <visibility>1</visibility>
       <styleUrl>#Photo</styleUrl>
-      <description>&lt;![CDATA[OBJECTID: 85&lt;br&gt;GlobalID: b7ea84c8-9536-450c-a260-a12cc71dfcab&lt;br&gt;CreationDate: 1751474761057&lt;br&gt;Creator: ddalton_nifc&lt;br&gt;EditDate: 1751474761057&lt;br&gt;Editor: ddalton_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No&lt;br&gt;&lt;img src='https://services7.arcgis.com/wMhfqcPz0lVHG6lf/ArcGIS/rest/services/Mitigation_Editor_Layers_view/FeatureServer/0/85/attachments/91' style='max-width:200px;margin:5px 0;'/&gt;]]&gt;</description>
+      <description>&lt;![CDATA[OBJECTID: 85&lt;br&gt;GlobalID: b7ea84c8-9536-450c-a260-a12cc71dfcab&lt;br&gt;CreationDate: 1751474761057&lt;br&gt;Creator: ddalton_nifc&lt;br&gt;EditDate: 1751474761057&lt;br&gt;Editor: ddalton_nifc&lt;br&gt;Class: Photo&lt;br&gt;ThreeSisters: No]]&gt;</description>
       <Point>
         <coordinates>-105.32048168610946,39.61908675945503,0</coordinates>
       </Point>
